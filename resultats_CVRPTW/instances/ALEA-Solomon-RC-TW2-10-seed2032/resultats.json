@@ -1,0 +1,37 @@
+{
+  "categorie": "synthetique",
+  "resume": {
+    "instance": "ALEA-Solomon-RC-TW2-10-seed2032",
+    "n": 10,
+    "profil": "RC",
+    "TW": 2,
+    "duree_tabou": 265.0,
+    "duree_multi_start": 265.0,
+    "departs_distincts": 3,
+    "temps_tabou_s": 0.4391293999979098,
+    "temps_multi_s": 1.3157113999986905,
+    "optimum_exact": 265.0,
+    "borne_LP": 194.999999931,
+    "temps_exact_s": 0.06837150000137626,
+    "temps_LP_s": 0.09828249999918626,
+    "GAP_exact_%": 0.0,
+    "GAP_LP_%": 35.89743594552269,
+    "faisable": true
+  },
+  "tournees": [
+    [
+      5,
+      3,
+      4,
+      8,
+      7,
+      2,
+      10,
+      1,
+      6
+    ],
+    [
+      9
+    ]
+  ]
+}

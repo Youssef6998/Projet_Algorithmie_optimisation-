@@ -1,0 +1,33 @@
+{
+  "categorie": "synthetique",
+  "resume": {
+    "instance": "ALEA-Solomon-C-TW1-8-seed1811",
+    "n": 8,
+    "profil": "C",
+    "TW": 1,
+    "duree_tabou": 239.0,
+    "duree_multi_start": 239.0,
+    "departs_distincts": 3,
+    "temps_tabou_s": 0.3300039000023389,
+    "temps_multi_s": 0.7941962000004423,
+    "optimum_exact": 239.0,
+    "borne_LP": 239.00000036000003,
+    "temps_exact_s": 0.008802700001979247,
+    "temps_LP_s": 0.07054090000019642,
+    "GAP_exact_%": 0.0,
+    "GAP_LP_%": -1.5062762729885944e-07,
+    "faisable": true
+  },
+  "tournees": [
+    [
+      1,
+      8,
+      5,
+      7,
+      4,
+      2,
+      6,
+      3
+    ]
+  ]
+}

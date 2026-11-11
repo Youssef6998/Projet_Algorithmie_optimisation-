@@ -1,0 +1,39 @@
+{
+  "categorie": "synthetique",
+  "resume": {
+    "instance": "ALEA-Solomon-R-TW1-12-seed2221",
+    "n": 12,
+    "profil": "R",
+    "TW": 1,
+    "duree_tabou": 444.0,
+    "duree_multi_start": 442.0,
+    "departs_distincts": 3,
+    "temps_tabou_s": 0.2708141000002797,
+    "temps_multi_s": 0.8498813999976846,
+    "optimum_exact": null,
+    "borne_LP": null,
+    "temps_exact_s": null,
+    "temps_LP_s": null,
+    "GAP_exact_%": null,
+    "GAP_LP_%": null,
+    "faisable": true
+  },
+  "tournees": [
+    [
+      3,
+      9,
+      4,
+      1,
+      7,
+      8,
+      2,
+      11
+    ],
+    [
+      10,
+      6,
+      5,
+      12
+    ]
+  ]
+}

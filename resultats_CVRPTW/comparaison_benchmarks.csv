@@ -1,0 +1,2 @@
+famille,instance,n,configuration,vehicules_tabou,vehicules_BKS,duree_tabou,duree_BKS_recalculee,ecart_duree_BKS_%,distance_tabou,distance_BKS,GAP_distance_officiel_%,vehicules_comparables,departs_reussis,iterations_meilleur,temps_principal_s
+Solomon,C101,100,duree_v3_i400_t20_v120_d3_b300_double_sens1_ta5-10-20-40_bs180,15,10,13072.27548711959,9828.936866942833,32.99785789737763,2802.6178456523603,828.936866942834,238.0978645561481,False,3,275,21.96332429999893
